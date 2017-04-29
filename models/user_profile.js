@@ -55,8 +55,49 @@ function Users() {
                             return col.update({user_id : req.body.user_id} ,
                                               {
                                                 $set:{
-                                                  sighting_data: req.body.sighting_data
+                                                  sighting_data: req.body.sighting_data,
+                                                  user_score: req.body.user_score
                                                 }
+                                              },
+                                              {
+                                                upsert:true
+                                              }
+                                            )
+                                            .then(function(result) {
+                                                db.close().then(console.log('success'));
+                                                res.json({
+                                                    success: true,
+                                                    message: 'Thank you for helping save cranes!!',
+                                                });
+
+                                              }).fail(function(err) {console.log(err);});
+
+                })
+              }).fail(function(err) {console.log(err);});
+        })
+        .fail(function(err) {console.log(err);});
+    //-------------------------------------------------------------------------------------------
+ };
+
+
+//------------Add good practice data-----------------------------------------------------------------------
+   this.add_goodpractice = function(req, res)
+  {
+    connection.conn.connect(connection.url)
+        .then(function(db){
+            return db.collection('user_profiles')
+            .then(function(col){
+//-----------Check for existing user--------------------------------------------------------
+              return col.find( { "user_id": req.body.user_id }).count()
+                .then(function(value) {
+
+                            return col.update({user_id : req.body.user_id} ,
+                                              {
+                                                $set:{
+                                                  goodpractice_data: req.body.goodpractice_data,
+                                                  user_score: req.body.user_score
+                                                },
+
                                               },
                                               {
                                                 upsert:true
