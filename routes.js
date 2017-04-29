@@ -1,5 +1,6 @@
 var registerUser = require('./models/users');
 var user_data = require('./models/user_profile');
+var leader_data=require('./models/leaders');
 var jwt    = require('jsonwebtoken');
 
 
@@ -55,6 +56,13 @@ module.exports = {
       user_data.add_data(req, res);
     });
 
+     app.post('/put_goodpractice/', function(req, res) {
+      user_data.add_goodpractice(req, res);
+    });
+
+     app.post('/get_leaders/', function(req, res) {
+      leader_data.get_leaders(req, res);
+    });
 
   }
 };
