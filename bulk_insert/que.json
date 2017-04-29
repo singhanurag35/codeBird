@@ -1,0 +1,102 @@
+[
+  {
+    "Q_ID": 1,
+    "Que_Code": "QIM",
+    "Exam_Code": "SJI",
+    "Max_Marks": 4,
+    "Que": "What is the capital of Delhi?",
+    "Image": "{\"Image1\":\"http://www.gettyimages.in/gi-resources/images/Embed/new/embed2.jpg\",\"Image2\":\"http://www.gettyimages.in/gi-resources/images/Embed/new/embed2.jpg\",\"Image3\":\"http://www.gettyimages.in/gi-resources/images/Embed/new/embed2.jpg\"}",
+    "Options": "{\"a\":\"Amsterdam\",\"b\":\"Delhi\",\"c\":\"Banglore\",\"d\":\"Beijing\"}",
+    "Answer": "b"
+  },
+  {
+    "Q_ID": 2,
+    "Que_Code": "QIM",
+    "Exam_Code": "SJI",
+    "Max_Marks": 4,
+    "Que": "What is the capital of Delhi?",
+    "Image": "{\"Image1\":\"http://www.gettyimages.in/gi-resources/images/Embed/new/embed2.jpg\",\"Image2\":\"http://www.gettyimages.in/gi-resources/images/Embed/new/embed2.jpg\",\"Image3\":\"http://www.gettyimages.in/gi-resources/images/Embed/new/embed2.jpg\"}",
+    "Options": "{\"a\":\"Amsterdam\",\"b\":\"Delhi\",\"c\":\"Banglore\",\"d\":\"Beijing\"}",
+    "Answer": "b"
+  },
+  {
+    "Q_ID": 3,
+    "Que_Code": "QIM",
+    "Exam_Code": "SJI",
+    "Max_Marks": 4,
+    "Que": "What is the capital of Delhi?",
+    "Image": "{\"Image1\":\"http://www.gettyimages.in/gi-resources/images/Embed/new/embed2.jpg\",\"Image2\":\"http://www.gettyimages.in/gi-resources/images/Embed/new/embed2.jpg\",\"Image3\":\"http://www.gettyimages.in/gi-resources/images/Embed/new/embed2.jpg\"}",
+    "Options": "{\"a\":\"Amsterdam\",\"b\":\"Delhi\",\"c\":\"Banglore\",\"d\":\"Beijing\"}",
+    "Answer": "b"
+  },
+  {
+    "Q_ID": 4,
+    "Que_Code": "QIM",
+    "Exam_Code": "SJI",
+    "Max_Marks": 4,
+    "Que": "What is the capital of Delhi?",
+    "Image": "{\"Image1\":\"http://www.gettyimages.in/gi-resources/images/Embed/new/embed2.jpg\",\"Image2\":\"http://www.gettyimages.in/gi-resources/images/Embed/new/embed2.jpg\",\"Image3\":\"http://www.gettyimages.in/gi-resources/images/Embed/new/embed2.jpg\"}",
+    "Options": "{\"a\":\"Amsterdam\",\"b\":\"Delhi\",\"c\":\"Banglore\",\"d\":\"Beijing\"}",
+    "Answer": "b"
+  },
+  {
+    "Q_ID": 5,
+    "Que_Code": "QIM",
+    "Exam_Code": "SJI",
+    "Max_Marks": 4,
+    "Que": "What is the capital of Delhi?",
+    "Image": "{\"Image1\":\"http://www.gettyimages.in/gi-resources/images/Embed/new/embed2.jpg\",\"Image2\":\"http://www.gettyimages.in/gi-resources/images/Embed/new/embed2.jpg\",\"Image3\":\"http://www.gettyimages.in/gi-resources/images/Embed/new/embed2.jpg\"}",
+    "Options": "{\"a\":\"Amsterdam\",\"b\":\"Delhi\",\"c\":\"Banglore\",\"d\":\"Beijing\"}",
+    "Answer": "b"
+  },
+  {
+    "Q_ID": 6,
+    "Que_Code": "QIM",
+    "Exam_Code": "SJI",
+    "Max_Marks": 4,
+    "Que": "What is the capital of Delhi?",
+    "Image": "{\"Image1\":\"http://www.gettyimages.in/gi-resources/images/Embed/new/embed2.jpg\",\"Image2\":\"http://www.gettyimages.in/gi-resources/images/Embed/new/embed2.jpg\",\"Image3\":\"http://www.gettyimages.in/gi-resources/images/Embed/new/embed2.jpg\"}",
+    "Options": "{\"a\":\"Amsterdam\",\"b\":\"Delhi\",\"c\":\"Banglore\",\"d\":\"Beijing\"}",
+    "Answer": "b"
+  },
+  {
+    "Q_ID": 7,
+    "Que_Code": "QIM",
+    "Exam_Code": "SJI",
+    "Max_Marks": 4,
+    "Que": "What is the capital of Delhi?",
+    "Image": "{\"Image1\":\"http://www.gettyimages.in/gi-resources/images/Embed/new/embed2.jpg\",\"Image2\":\"http://www.gettyimages.in/gi-resources/images/Embed/new/embed2.jpg\",\"Image3\":\"http://www.gettyimages.in/gi-resources/images/Embed/new/embed2.jpg\"}",
+    "Options": "{\"a\":\"Amsterdam\",\"b\":\"Delhi\",\"c\":\"Banglore\",\"d\":\"Beijing\"}",
+    "Answer": "b"
+  },
+  {
+    "Q_ID": 8,
+    "Que_Code": "QIM",
+    "Exam_Code": "SJI",
+    "Max_Marks": 4,
+    "Que": "What is the capital of Delhi?",
+    "Image": "{\"Image1\":\"http://www.gettyimages.in/gi-resources/images/Embed/new/embed2.jpg\",\"Image2\":\"http://www.gettyimages.in/gi-resources/images/Embed/new/embed2.jpg\",\"Image3\":\"http://www.gettyimages.in/gi-resources/images/Embed/new/embed2.jpg\"}",
+    "Options": "{\"a\":\"Amsterdam\",\"b\":\"Delhi\",\"c\":\"Banglore\",\"d\":\"Beijing\"}",
+    "Answer": "b"
+  },
+  {
+    "Q_ID": 9,
+    "Que_Code": "QIM",
+    "Exam_Code": "SJI",
+    "Max_Marks": 4,
+    "Que": "What is the capital of Delhi?",
+    "Image": "{\"Image1\":\"http://www.gettyimages.in/gi-resources/images/Embed/new/embed2.jpg\",\"Image2\":\"http://www.gettyimages.in/gi-resources/images/Embed/new/embed2.jpg\",\"Image3\":\"http://www.gettyimages.in/gi-resources/images/Embed/new/embed2.jpg\"}",
+    "Options": "{\"a\":\"Amsterdam\",\"b\":\"Delhi\",\"c\":\"Banglore\",\"d\":\"Beijing\"}",
+    "Answer": "b"
+  },
+  {
+    "Q_ID": 10,
+    "Que_Code": "QIM",
+    "Exam_Code": "SJI",
+    "Max_Marks": 4,
+    "Que": "What is the capital of Delhi?",
+    "Image": "{\"Image1\":\"http://www.gettyimages.in/gi-resources/images/Embed/new/embed2.jpg\",\"Image2\":\"http://www.gettyimages.in/gi-resources/images/Embed/new/embed2.jpg\",\"Image3\":\"http://www.gettyimages.in/gi-resources/images/Embed/new/embed2.jpg\"}",
+    "Options": "{\"a\":\"Amsterdam\",\"b\":\"Delhi\",\"c\":\"Banglore\",\"d\":\"Beijing\"}",
+    "Answer": "b"
+  }
+]
