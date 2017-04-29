@@ -1,0 +1,10 @@
+MongoError: E11000 duplicate key error collection: gifted.question_dict index: Q_ID_1_Que_1 dup key: { : 5, : "What is the capital of Delhi?" }
+MongoError: E11000 duplicate key error collection: gifted.question_dict index: Q_ID_1_Que_1 dup key: { : 1, : "What is the capital of Delhi?" }
+MongoError: E11000 duplicate key error collection: gifted.question_dict index: Q_ID_1_Que_1 dup key: { : 6, : "What is the capital of Delhi?" }
+MongoError: E11000 duplicate key error collection: gifted.question_dict index: Q_ID_1_Que_1 dup key: { : 2, : "What is the capital of Delhi?" }
+MongoError: E11000 duplicate key error collection: gifted.question_dict index: Q_ID_1_Que_1 dup key: { : 7, : "What is the capital of Delhi?" }
+MongoError: E11000 duplicate key error collection: gifted.question_dict index: Q_ID_1_Que_1 dup key: { : 3, : "What is the capital of Delhi?" }
+MongoError: E11000 duplicate key error collection: gifted.question_dict index: Q_ID_1_Que_1 dup key: { : 4, : "What is the capital of Delhi?" }
+MongoError: E11000 duplicate key error collection: gifted.question_dict index: Q_ID_1_Que_1 dup key: { : 9, : "What is the capital of Delhi?" }
+MongoError: E11000 duplicate key error collection: gifted.question_dict index: Q_ID_1_Que_1 dup key: { : 10, : "What is the capital of Delhi?" }
+MongoError: E11000 duplicate key error collection: gifted.question_dict index: Q_ID_1_Que_1 dup key: { : 8, : "What is the capital of Delhi?" }
