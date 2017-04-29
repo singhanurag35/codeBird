@@ -14,7 +14,6 @@ function Users() {
         .then(function(db){
             var secret = totp.utils.generateSecret();
             var userID= totp.generate(secret);
-            console.log(userID);
             return db.collection('users')
             .then(function(col){
 //-----------Check for existing user--------------------------------------------------------
@@ -31,6 +30,7 @@ function Users() {
                     else
                       {
                           return col.insert({user_id : userID,
+                                            user_name: req.body.user_name,
                                             email: req.body.email,
                                             gid: req.body.gid,
                                             dp: req.body.dp
