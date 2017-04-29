@@ -51,6 +51,10 @@ module.exports = {
       user_data.get_profile(req, res);
     });
 
+     app.post('/put_userdata/', function(req, res) {
+      user_data.add_data(req, res);
+    });
+
 
   }
 };
