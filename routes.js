@@ -1,4 +1,5 @@
 var registerUser = require('./models/users');
+var user_data = require('./models/user_profile');
 var jwt    = require('jsonwebtoken');
 
 
@@ -45,6 +46,10 @@ module.exports = {
   }
 
 });
+
+    app.post('/user_profile/', function(req, res) {
+      user_data.get_profile(req, res);
+    });
 
 
   }
